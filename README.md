@@ -8,4 +8,4 @@ Create a firebase project at https://firebase.google.com/ and follow the Flutter
 
 ## Video Lesson
 
-https://www.youtube.com/watch?v=zaiE08EWrO0
+[![](http://img.youtube.com/vi/zaiE08EWrO0/0.jpg)](http://www.youtube.com/watch?v=zaiE08EWrO0 "Journal App 1")
